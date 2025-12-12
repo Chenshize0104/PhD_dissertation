@@ -10,6 +10,22 @@ Kunming Institute of Botany, Chinese Academy of Sciences
 
 December, 2025
 
+---
+## Chapter 2
+Aggressive native plant disrupts plant–arbuscular mycorrhizal fungi networks in subalpine meadows
+
+入侵性本地植物重塑亚高山草甸植物—丛枝菌根真菌网络
+
+https://doi.org/10.1093/jpe/rtaf194
+
+Summary
+
+Global changes and human disturbances are driving the expansion of aggressive native species worldwide, such as Euphorbia jolkinii in subalpine meadows. Our results highlight the considerable negative impacts of this aggressive native plant on belowground mutualistic networks, creating an urgent need for effective management and restoration strategies to alleviate the ensuing biodiversity conservation crisis.
+
+全球变化和人类活动正在驱动全球范围内入侵性本地物种的扩张，例如亚高山草甸中的大狼毒。我们的研究表明，这种入侵性本地植物对地下互惠网络具有显著的负面影响，迫切需要有效的管理和恢复策略来缓解由此产生的生物多样性保护危机。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/bibpiaZxGK5Y2WaOOfR4ocIA4ajfKfTtfh7y8Hic8GHNuB1JdyniaslUaPOFIKXJZrccRDIJdaQpeoXTs0hSFQ0KNQ/640?from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=3)
+
 
 
 
