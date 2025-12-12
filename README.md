@@ -28,7 +28,11 @@ Global changes and human disturbances are driving the expansion of aggressive na
 
 Cite this article:
 
-Li Chen, Amparo Lázaro, Haidong Li, Zhibin Tao, Jun Yin, Mingchuan Zhong, Guangtao Meng, Pinrong Li, Sheng Qiu, Dezhu Li, Hong Wang, Yanhui Zhao. 2025. Aggressive native plant disrupts plant–arbuscular mycorrhizal fungi networks in subalpine meadows[J]. Journal Of Plant Ecology, DOI: [10.1093/jpe/rtaf194](https://doi.org/10.1093/jpe/rtaf194).
+Li Chen, Amparo Lázaro, Haidong Li, Zhibin Tao, Jun Yin, Mingchuan Zhong, Guangtao Meng, Pinrong Li, Sheng Qiu, Dezhu Li, Hong Wang, Yanhui Zhao. 2025. Aggressive native plant disrupts plant–arbuscular mycorrhizal fungi networks in subalpine meadows[J]. Journal Of Plant Ecology, https://doi.org/10.1093/jpe/rtaf194.
+
+---
+Previous research:
+Zhao Y-H, Memmott J, Vaughan IP, et al. The impact of a native dominant plant, Euphorbia jolkinii, on plant–flower visitor networks and pollen deposition on stigmas of co-flowering species in subalpine meadows of Shangri-La, SW China. Journal Of Ecology. 2021; 109: 2107–2120. https://doi.org/10.1111/1365-2745.13624.
 
 
 
