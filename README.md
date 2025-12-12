@@ -26,6 +26,10 @@ Global changes and human disturbances are driving the expansion of aggressive na
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/bibpiaZxGK5Y2WaOOfR4ocIA4ajfKfTtfh7y8Hic8GHNuB1JdyniaslUaPOFIKXJZrccRDIJdaQpeoXTs0hSFQ0KNQ/640?from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=3)
 
+Cite this article:
+
+Li Chen, Amparo Lázaro, Haidong Li, Zhibin Tao, Jun Yin, Mingchuan Zhong, Guangtao Meng, Pinrong Li, Sheng Qiu, Dezhu Li, Hong Wang, Yanhui Zhao. 2025. Aggressive native plant disrupts plant–arbuscular mycorrhizal fungi networks in subalpine meadows[J]. Journal Of Plant Ecology, DOI: [10.1093/jpe/rtaf194](https://doi.org/10.1093/jpe/rtaf194).
+
 
 
 
