@@ -32,6 +32,7 @@ Li Chen, Amparo Lázaro, Haidong Li, Zhibin Tao, Jun Yin, Mingchuan Zhong, Guang
 
 ---
 Previous research:
+
 Zhao Y-H, Memmott J, Vaughan IP, et al. The impact of a native dominant plant, Euphorbia jolkinii, on plant–flower visitor networks and pollen deposition on stigmas of co-flowering species in subalpine meadows of Shangri-La, SW China. Journal Of Ecology. 2021; 109: 2107–2120. https://doi.org/10.1111/1365-2745.13624.
 
 ![](https://besjournals.onlinelibrary.wiley.com/cms/asset/e60be4d4-6a93-414f-b7be-f631a133bfcc/jec13624-fig-0001-m.jpg)
