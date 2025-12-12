@@ -10,6 +10,10 @@ Kunming Institute of Botany, Chinese Academy of Sciences
 
 December, 2025
 
+Contact Us:
+
+Dr. Li Chen, mail: chenliakib@qq.com
+
 ---
 ## Chapter 2
 Aggressive native plant disrupts plant–arbuscular mycorrhizal fungi networks in subalpine meadows
